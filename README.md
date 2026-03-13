@@ -30,7 +30,7 @@
 
 # Скачивание репозитория:
 ```bash
-git clone 
+git clone https://github.com/qwerty11010/ITBur-CyberAudit-Cyber-X.git
 ```
 
 # Установка:
@@ -86,5 +86,11 @@ python3 audit.py
 
 -JSON: "report.json"
 
-Тестирование производилось на Kali Linux (чистая + уязвимая).
+**Тестирование** производилось на Kali Linux (чистая + уязвимая).
 
+# Примечание
+Запускать нужно в папке проекта.
+```bash
+cd /home/yota/ITBur-CyberAudit-Cyber-X
+sudo python3 audit.py
+```
