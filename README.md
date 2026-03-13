@@ -96,4 +96,11 @@ sudo python3 audit.py
 ```
 
 # Пример работы
-![На уязвимой](images/test1_on_yota.png)
+![Уяизвимая](images/test1_on_yota.jpg)
+![Уяизвимая2](images/test2_on_yota.jpg)
+
+На уязвимой
+
+![Чистая](images/clear_kali.jpg)
+
+На чистой
