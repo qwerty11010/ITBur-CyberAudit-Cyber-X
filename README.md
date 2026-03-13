@@ -94,3 +94,6 @@ python3 audit.py
 cd /home/yota/ITBur-CyberAudit-Cyber-X
 sudo python3 audit.py
 ```
+
+# Пример работы
+![На уязвимой](images/test1_on_yota.png)
